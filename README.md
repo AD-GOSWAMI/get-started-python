@@ -6,7 +6,7 @@ The following instructions are for deploying the application as a Cloud Foundry 
 
 ## Prerequisites
 
-You'll need the following:
+You'll need the following in this tutorial
 * [IBM Cloud account](https://console.ng.bluemix.net/registration/)
 * [Cloud Foundry CLI](https://github.com/cloudfoundry/cli#downloads)
 * [Git](https://git-scm.com/downloads)
